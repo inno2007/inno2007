@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and ethical hacking. I work on real-world lab
 
 I document my hands-on work and learning progress in my project repository below.  
 
-🔗 **Portfolio Repo:** [cybersecurity-portfolio](https://github.com/Inno2007/traffic-analysis-password-cracking-sql-injection)   
+🔗 **Portfolio Repo:** [traffic-analysis-password-cracking-sql-injection](https://github.com/Inno2007/traffic-analysis-password-cracking-sql-injection)   
 
 ---
 
