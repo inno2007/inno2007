@@ -9,9 +9,7 @@
 ## 🧠 About Me  
 I'm passionate about cybersecurity and ethical hacking. I work on real-world labs and simulations including network attacks, intrusion detection systems, VPNs, and firewalls. I also explore platforms like **Hack The Box**. 
 
-I document my hands-on work and learning progress in my project repository below.  
-
-🔗 **Portfolio Repo:** [traffic-analysis-password-cracking-sql-injection](https://github.com/Inno2007/traffic-analysis-password-cracking-sql-injection)   
+I document my hands-on work and learning progress in my Lab-Based projects below.  
 
 ---
 
@@ -32,7 +30,7 @@ I document my hands-on work and learning progress in my project repository below
 ## 🧪 Lab-Based Projects  
 You can view my write-ups, projects, and lab summaries here:
 
-➡️ [cybersecurity-portfolio](https://github.com/Inno2007/cybersecurity-portfolio)  
+🔗 **Portfolio Repo:** [traffic-analysis-password-cracking-sql-injection](https://github.com/Inno2007/traffic-analysis-password-cracking-sql-injection)   
 
 ---
 
