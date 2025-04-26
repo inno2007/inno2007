@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Inno,   
+# 👋 Hi, I'm Inno
 
 🎓 International IT student in Sydney, Australia  
 🛡️ Specializing in Cybersecurity | Focus: Offensive & Defensive Security  
