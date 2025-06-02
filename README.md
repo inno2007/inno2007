@@ -38,4 +38,5 @@ You can view my write-ups, projects, and lab summaries here:
 Feel free to reach out if you're into cybersecurity, or hiring international graduates:
 
 📧 inno.sensiussachio@gmail.com  
-🌐 LinkedIn: on progress
+🌐 LinkedIn: www.linkedin.com/in/innosensius-sachio
+
