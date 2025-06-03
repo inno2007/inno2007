@@ -1,42 +1,69 @@
-# 👋 Hi, I'm Inno
+# 👋 Hi, I'm Inno (Innosensius Sachio)
 
-🎓 International IT student in Sydney, Australia  
-🛡️ Specializing in Cybersecurity | Focus: Offensive & Defensive Security  
-🌏 VGraduating December 2026  
+🎓 International student from Indonesia  
+📍 Studying Bachelor of Information Technology, majoring in Cybersecurity  
+🏫 University of Technology Sydney (UTS) | 🎓 Graduating December 2026  
+🛡️ Specializing in Offensive & Defensive Security  
 
 ---
 
 ## 🧠 About Me  
-I'm passionate about cybersecurity and ethical hacking. I work on real-world labs and simulations including network attacks, intrusion detection systems, VPNs, and firewalls. I also explore platforms like **Hack The Box**. 
+I'm passionate about cybersecurity, ethical hacking, and secure network design. I work on real-world labs and simulations involving:
+- Network attacks (DNS spoofing, ARP poisoning, SQL injection)
+- Intrusion detection systems (Snort IDS)
+- VPNs (IPSec), TLS/SSL, firewall configuration
+- Digital certificates and X.509 PKI  
+I also explore platforms like **Hack The Box** to build practical skills.
 
-I document my hands-on work and learning progress in my Lab-Based projects below.  
+This GitHub is where I share my **projects, lab work, and study notes** as part of my ongoing learning and development.
 
 ---
 
 ## 🛠️ Skills & Tools  
-- Linux (Kali, Ubuntu), Cisco Packet Tracer  
-- Snort IDS, Wireshark, Burp Suite, Netwag  
-- Python (basic), Java (basic), Shell Scripting  
-- DNS spoofing, MITM, firewall config, VPN (IPsec)  
-- Git & GitHub for documenting cybersecurity labs  
+- **Cybersecurity:** Snort IDS, Wireshark, Burp Suite, Zphisher, OpenSSL, Netwag  
+- **Networking:** Cisco Packet Tracer, VLANs, OSPF, NAT, ACLs, DHCP  
+- **Programming:** Java (OOP, JavaFX), Python (CLI tools), HTML/CSS  
+- **Systems & OS:** Linux (Kali, Ubuntu), Unix CLI, Juniper OS  
+- **Tech Practices:** SQL (ERDs, normalization), Git & GitHub, Bash scripting  
 
 ---
 
-## 📈 Goals  
-- 🧠 Earn industry certifications (CompTIA Security+, eJPT, etc.)  
+## 🎯 Goals  
+- 📚 Complete industry certifications: CompTIA Security+, eJPT  
+- 🚀 Contribute to open-source security projects  
+- 🤝 Gain real-world internship experience in Sydney  
 
 ---
 
-## 🧪 Lab-Based Projects  
-You can view my write-ups, projects, and lab summaries here:
+## 🧪 Featured Lab-Based Projects  
+🔐 **Cybersecurity Attack Simulation & Defense**  
+- DNS spoofing, ARP poisoning, ICMP redirects, SQL injection  
+- Snort IDS rule creation, phishing simulation, OpenSSL certificate setup
 
-🔗 **Portfolio Repo:** [traffic-analysis-password-cracking-sql-injection](https://github.com/Inno2007/traffic-analysis-password-cracking-sql-injection)   
+🌐 **Secure Network Design**  
+- VLAN setup, OSPF routing, ACLs, port security, and SSH access via Cisco CLI
+
+🔑 **TLS & Cryptography Labs**  
+- RSA, Diffie-Hellman, TLS handshakes, session keys, and X.509 trust chains
+
+💻 **Java & Python Projects**  
+- JavaFX Banking App with OOP  
+- Python CLI Student Tracker with validation and data structures
+
+🗃️ **Web + Database System**  
+- Built a basic web system using HTML, SQL queries, ER diagrams, and Unix DML/DDL
+
+---
+
+## 📁 Portfolio Repositories  
+You can explore my technical labs and write-ups here:
+
+🔗 [Traffic Analysis, Password Cracking, SQL Injection (Repo)](https://github.com/Inno2007/traffic-analysis-password-cracking-sql-injection)  
+📁 More projects to be added soon!
 
 ---
 
 ## 🤝 Let’s Connect  
-Feel free to reach out if you're into cybersecurity, or hiring international graduates:
-
-📧 inno.sensiussachio@gmail.com  
-🌐 LinkedIn: www.linkedin.com/in/innosensius-sachio
-
+I'm open to collaboration, internships, and security research discussions.  
+📧 **inno.sensiussachio@gmail.com**  
+🌐 **LinkedIn:** [linkedin.com/in/innosensius-sachio](https://www.linkedin.com/in/innosensius-sachio)
