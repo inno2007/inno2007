@@ -58,7 +58,8 @@ This GitHub is where I share my **projects, lab work, and study notes** as part 
 ## 📁 Portfolio Repositories  
 You can explore my technical labs and write-ups here:
 
-🔗 [Traffic Analysis, Password Cracking, SQL Injection (Repo)](https://github.com/Inno2007/traffic-analysis-password-cracking-sql-injection)  
+🔗 [Cybersec (Repo)](https://github.com/Inno2007/Cybersec)  
+🔗 [Networking (Repo)](https://github.com/Inno2007/Networking)  
 📁 More projects to be added soon!
 
 ---
